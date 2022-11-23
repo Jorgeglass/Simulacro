@@ -1,0 +1,6 @@
+sudo touch 01-hola-mundo.sh
+sudo nano 01-hola-mundo.sh
+escribes echo Hola mundo
+y sales con ctrl s y x
+sudo chmod +x ./01-hola-mundo.sh
+sudo ./01-hola-mundo.sh
